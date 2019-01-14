@@ -1,16 +1,27 @@
 img {
-	width: 25%;
-	float: center;
+	width: 30%;
+	float: left;
 	margin: 1.66%;
 }
 
-h1 h2 {
+.headings {
 	font-family: Raleway;
-	margin-left: 1.66%;
 	font-size: 23px;
 	font-weight: 800;
 	text-transform: uppercase;
-	border-bottom: 2px solid #f1f1f1;
-	width: 30%;
+	/* border-bottom: 2px solid #f1f1f1; */
+	width: 50%;
 	padding-bottom: 20px;
+	margin: 1.66%;
+}
+
+/* Cloud */
+
+hr {
+    border: 0;
+    height: 0; /* Firefox... */
+    box-shadow: 0 0 10px 1px black;
+}
+hr:after {  /* Not really supposed to work, but does */
+    content: "\00a0";  /* Prevent margin collapse */
 }
