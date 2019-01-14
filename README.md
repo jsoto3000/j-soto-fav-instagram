@@ -1,6 +1,5 @@
-# Photo Grid CSS - Image Gallery Code Along
 # Colt Steele Web Development - Section 6 Intermediate CSS
-# Code Along
+# Photo Grid CSS - Image Gallery Code Along
 
 - [About this project](#about)
 - [Features](#features)
